@@ -26,7 +26,7 @@ repository.
 **Make a commit after each prompt.**
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 10:00am ET.
+the next morning by 9:00am ET.
 
 ### Preview Tomorrow's Content 
 
